@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPA GRADING APP</string>
+    <string name="rbutton">Register</string>
+    <string name="Abutton">ADD</string>
+    <string name="firstname">First name</string>
+    <string name="lastnem">Last Name</string>
+    <string name="search">Search</string>
+    <string name="saveB">SAVE</string>
+</resources>
